@@ -1,0 +1,15 @@
+# --- SISTEMA Y ENTORNO ---
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+
+# --- DATOS Y ARCHIVOS RESTRINGIDOS ---
+images/
+data/
+papers/
+models/
+
+# --- ARCHIVOS COMPRIMIDOS ---
+data.zip
+tokenizer.zip
+*.zip
